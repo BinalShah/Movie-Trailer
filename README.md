@@ -1,4 +1,4 @@
-# Movie-Trailer
+# Movie Trailer
 
 Open entertainment_center.py file and then from IDLE Run menu run module.
 You wll be able to see the posters of the movie and 
